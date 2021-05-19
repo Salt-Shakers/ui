@@ -1,2 +1,2 @@
 # Salt Shakers UI
-A UI Libarary for TailwindCSS Written In Typescript
+A UI Library for TailwindCSS Written In Typescript
